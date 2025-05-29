@@ -49,10 +49,6 @@ The solution focuses on three major areas:
 - Dimensionality reduction via **UMAP** allows intuitive 2D/3D visualization
 - Use of **fuzzy clustering** to handle ambiguous samples and outliers
 
-|                                                             | 
-||
-
-
 |                                  Embedding (PCB-CARDS DATASET) Visualization 2D                           |
 |-----------------------------------------------------------------------------------------------------------|
 | ![embeddings_pcb-cards](https://github.com/user-attachments/assets/5fdd5992-0f6b-4c2d-80bb-e095467bba65)  | 
