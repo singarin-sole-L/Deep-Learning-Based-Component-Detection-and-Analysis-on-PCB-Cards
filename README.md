@@ -29,9 +29,9 @@ The solution focuses on three major areas:
 - Tuning: Extensive hyperparameter optimization using [Optuna](https://optuna.org/)
 - Metric: Custom mAP at low IoU thresholds (e.g., 0.2) to account for small components
 
-
-|                                  Component Detection                                         |
-|![detections](https://github.com/user-attachments/assets/95e31e31-9a37-4760-a59f-d0c601c788e4)|
+|                                         Component Detection                                               |
+|-----------------------------------------------------------------------------------------------------------|
+|     ![detections](https://github.com/user-attachments/assets/95e31e31-9a37-4760-a59f-d0c601c788e4)        | 
 
 ### 2. 🔄 Multi-Model Fusion Strategy
 - Slicing-based models (via [SAHI](https://github.com/obss/sahi)) for small components like resistors/capacitors
@@ -49,8 +49,14 @@ The solution focuses on three major areas:
 - Dimensionality reduction via **UMAP** allows intuitive 2D/3D visualization
 - Use of **fuzzy clustering** to handle ambiguous samples and outliers
 
-|                            Embedding (PCB-CARDS DATASET) Visualization                                 | 
-|![embeddings_pcb-cards](https://github.com/user-attachments/assets/5fdd5992-0f6b-4c2d-80bb-e095467bba65)|
+|                                                             | 
+||
+
+
+|                                  Embedding (PCB-CARDS DATASET) Visualization 2D                           |
+|-----------------------------------------------------------------------------------------------------------|
+| ![embeddings_pcb-cards](https://github.com/user-attachments/assets/5fdd5992-0f6b-4c2d-80bb-e095467bba65)  | 
+
 ---
 
 ## 🖼 Sample Results
