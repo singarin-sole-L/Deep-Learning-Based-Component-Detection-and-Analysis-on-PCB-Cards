@@ -3,7 +3,7 @@
 📍 **Project Type**: Internship @ ASAP Engineering (HCLTech)  
 📅 **Duration**: 10 months
 👨‍💻 **Author**: Livio SINGARIN-SOLE  
-🛠 **Status**: 🔧 First version – In development and regularly updated
+🛠 **Status**: 🔧 Finished
 
 ---
 
