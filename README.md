@@ -17,8 +17,6 @@ The solution focuses on three major areas:
 - **Multi-model fusion** for enhanced performance across component types
 - **Embedding-based analysis** for unsupervised classification and dataset enhancement
 
-⚠️ _Note: This project is currently under development. The present version is an initial draft and will be enhanced with new features, experiments, and results._
-
 ---
 
 ## 📦 Key Features
