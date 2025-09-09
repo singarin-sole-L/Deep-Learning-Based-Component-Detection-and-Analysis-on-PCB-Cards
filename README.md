@@ -1,7 +1,7 @@
 # Deep Learning-Based Component Detection and Analysis on PCB Cards
 
 📍 **Project Type**: Internship @ ASAP Engineering (HCLTech)  
-📅 **Duration**: 10 months (Ongoing)  
+📅 **Duration**: 10 months
 👨‍💻 **Author**: Livio SINGARIN-SOLE  
 🛠 **Status**: 🔧 First version – In development and regularly updated
 
@@ -106,5 +106,4 @@ The full internship report includes:
 
 ## 📄 License
 
-To be defined. Currently private/internal – not licensed for external use without permission.
-
+Currently private/internal
